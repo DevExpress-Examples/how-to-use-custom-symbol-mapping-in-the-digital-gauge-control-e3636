@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/DigitalGauge_CustomSymbolMapping/MainPage.xaml) (VB: [MainPage.xaml](./VB/DigitalGauge_CustomSymbolMapping/MainPage.xaml))
+<!-- default file list end -->
 # How to use custom symbol mapping in the Digital Gauge control 
 
 
