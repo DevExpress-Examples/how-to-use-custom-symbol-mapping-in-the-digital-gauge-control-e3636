@@ -4,6 +4,9 @@
 * [MainPage.xaml](./CS/DigitalGauge_CustomSymbolMapping/MainPage.xaml) (VB: [MainPage.xaml](./VB/DigitalGauge_CustomSymbolMapping/MainPage.xaml))
 <!-- default file list end -->
 # How to use custom symbol mapping in the Digital Gauge control 
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3636)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to display custom characters on a Digital Gauge control. This is done via the Custom Symbol Mapping feature that defines which segments should be activated for every custom character.</p><p>In this sample we will display "HELLO." using the <strong>7 Segment View</strong> type. Note that by default these characters can't be displayed in this view (because 7 segments are not enough to provide unique representations for all Latin characters), but some characters can be efficiently displayed via custom symbol mapping.</p><br />
